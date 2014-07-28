@@ -1,0 +1,18 @@
+{
+  "name": "jquery-animateNumber",
+  "version": "0.0.10",
+  "homepage": "https://github.com/aishek/jquery-animateNumber",
+  "description": "jQuery numbers animation plugin, adds 'number' property and step function to jQuery's animate function properties.",
+  "main": "jquery.animateNumber.js",
+  "authors": [
+    "Alexandr Borisov"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
